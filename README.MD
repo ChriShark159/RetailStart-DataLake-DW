@@ -51,7 +51,7 @@ https://git-scm.com/downloads
 Clonar repositorio:
 
 ```bash
-git clone https://github.com/USUARIO/REPOSITORIO.git
+git clone https://github.com/ChriShark159/RetailStart-DataLake-DW
 ```
 
 ---
